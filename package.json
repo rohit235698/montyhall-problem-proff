@@ -1,0 +1,16 @@
+{
+  "name": "montyhall-problem-proof",
+  "version": "1.0.0",
+  "description": "proof for monyhall problem",
+  "main": "index.js",
+  "keywords": [
+    "montyhall"
+  ],
+  "author": "rohit koranga",
+  "license": "ISC",
+  "dependencies": {
+    "boolean": "^3.2.0",
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
+}
